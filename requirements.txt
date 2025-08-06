@@ -1,0 +1,12 @@
+tensorflow
+scipy
+mtcnn
+keras_facenet
+opencv-python
+numpy
+Pillow
+streamlit
+streamlit_webrtc
+av
+numpy==1.26.4
+scikit-learn
