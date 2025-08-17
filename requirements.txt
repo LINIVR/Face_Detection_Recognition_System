@@ -8,3 +8,4 @@ Pillow
 streamlit
 streamlit_webrtc
 av
+scikit-learn
